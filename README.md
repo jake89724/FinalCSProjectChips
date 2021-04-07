@@ -1,0 +1,3 @@
+# FinalCSProjectChips
+
+main game folder
